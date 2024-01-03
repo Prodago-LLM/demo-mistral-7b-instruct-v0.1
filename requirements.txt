@@ -1,2 +1,6 @@
 potassium
 torch
+datasets
+numpy
+transformers
+evaluate
